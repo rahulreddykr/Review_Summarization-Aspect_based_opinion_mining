@@ -1,0 +1,2 @@
+# Review-Summarization---Aspect-based-opinion-mining
+Summarize opinions of users about a product from a set of reviews. Extract the most common product features mentioned, most common opinion words used for a feature and the corresponding positive and negitive opinions about related to the feature and opinions. This way it becomes extremely easy to identify the most prominent positive and negitive features and opinions about a product.
